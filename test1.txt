@@ -1,0 +1,10 @@
+ Volume in drive ABC is Others
+ Volume Serial Number is C88C-C81A
+
+ Directory of F:\DevOps Practice\Git Practice\MyProject
+
+06-05-2020  21:05    <DIR>          .
+06-05-2020  21:05    <DIR>          ..
+06-05-2020  21:05                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  10,540,777,472 bytes free
